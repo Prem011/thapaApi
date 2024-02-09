@@ -1,0 +1,35 @@
+[
+    {
+        "name" : "iphone",
+        "price" : 154,
+        "feature" : true,
+        "company" : "apple"
+    },
+    {
+        "name" : "samsung",
+        "price" : 89.6,      
+        "feature" : false,  
+        "company" : "samsung"
+    },
+    {
+        "name" : "htc-one",
+        "price" : 72.3,          
+        "feature" : true,            
+        "company" : "htc"
+    },
+    {
+        "name" : "prem",
+        "price" : 155,
+        "company" : "dell"
+    },
+    {
+        "name" : "samsung-M21",
+        "price" : 890.6,     
+        "company" : "samsung"
+    },
+    {
+        "name" : "mi-one",
+        "price" : 702.3,          
+        "company" : "mi"
+    }
+]
